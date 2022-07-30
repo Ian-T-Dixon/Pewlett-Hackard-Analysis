@@ -49,8 +49,7 @@ emp_no INT NOT NULL,
 title VARCHAR NOT NULL,
 from_date DATE NOT NULL,
 to_date DATE NOT NULL,
-PRIMARY KEY (title),
 FOREIGN KEY (emp_no) REFERENCES employees (emp_no)
 );
 
-SELECT * FROM departments;
+

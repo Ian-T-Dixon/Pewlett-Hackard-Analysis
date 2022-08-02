@@ -27,4 +27,6 @@ Based on our analysis of the database we created, it is expected that there are 
 larger than the number of available candidates for the Mentorship Program. Using the desired parameters, each mentor would have to take on a substantial number of new
 employees. This would indicate that management may need to broaden the requirements to be in the mentorship program, or scrap the idea all together.
 
-![mentor count](https://github.com/Ian-T-Dixon/Pewlett-Hackard-Analysis/blob/main/Data/mentor_count.PNG)
+### Available Mentors per Title
+![mentor count](https://github.com/Ian-T-Dixon/Pewlett-Hackard-Analysis/blob/main/Data/mentor_count.PNG) ![retirees by title](https://github.com/Ian-T-Dixon/Pewlett-Hackard-Analysis/blob/main/Data/title_count.PNG)
+
